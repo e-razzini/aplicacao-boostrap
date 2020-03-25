@@ -11,13 +11,20 @@ body{
     background-color:rgba(0,0,0,.85);      
     font-family: 'Oxygen', sans-serif;
 }
+header{
+    border: 1px solid #fff;
+    margin:15px 15px 5px 15px;
+    padding: 0px 0px 20px 0px;
+    border-radius:12px;    
+}
 header a {
+ 
     color:#fff;
-    margin-top:30px;
+    margin-top:10px;
     text-transform: uppercase;
 }
 .carrosel{
-    margin-top:30px;
+    margin-top:10px;
 }
 img{
     width:100%;
@@ -25,10 +32,10 @@ img{
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;   
-    border-radius:5px;          
+    border-radius:8px;          
 }
 .cards {
-    margin-top:30px;  
+    margin-top:20px;  
     border-radius:10px; 
    margin-bottom:0px;
 }
@@ -70,7 +77,6 @@ img{
     margin-top:-28px ;
     
 }
-
 .traso {  
     height:2px;
     background-color: #fff;
