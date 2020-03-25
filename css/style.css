@@ -13,8 +13,8 @@ body{
 }
 header{
     border: 1px solid #fff;
-    margin:15px 15px 5px 15px;
-    padding: 0px 0px 20px 0px;
+    margin:15px 15px 15px 15px;
+    padding: 0px 0px 10px 0px;
     border-radius:12px;    
 }
 header a {
@@ -25,6 +25,7 @@ header a {
 }
 .carrosel{
     margin-top:10px;
+    margin-bottom:5px;
 }
 img{
     width:100%;
@@ -54,6 +55,7 @@ img{
     border: 1px solid #1c1c24 ;         
     font-family: 'Open Sans', sans-serif;
     font-size:14px;
+    margin-top:2px;
 }
 .card .text-titulo {
     color: #fff;
@@ -86,7 +88,7 @@ img{
 }
 fieldset{
     color:#fff;
-    margin: 40px 40px 40px 40px;
+    margin: 10px 40px 40px 40px;
     border: 1px solid #fff;
     border-radius:20px;
 }
